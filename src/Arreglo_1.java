@@ -30,7 +30,9 @@ public class Arreglo_1 {
 		//System.out.println(numeros2[5]);
 		
 		
-		
+		for(int indice = 0; indice<numeros2.length; indice ++) {
+			System.out.println("indice: "+ indice + " " +numeros2[indice]);
+		}
 		
 		
 		
